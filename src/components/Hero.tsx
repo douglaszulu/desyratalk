@@ -38,7 +38,7 @@ const Hero = () => {
 
 {/* Subtitle */}
 <div className="text-lg md:text-2xl text-amber-200 mb-8 animate-fade-in font-light">
-    Posibilidades infinitas, perfectamente adaptadas a ti
+  
 </div>
 
 {/* CTA Button */}
