@@ -35,11 +35,6 @@ const Hero = () => {
           Crea tu Diosa de los Sueños
         </h1>
 
-        {/* Subtitle (removido se não for usado) */}
-        {/* <div className="text-lg md:text-2xl text-amber-200 mb-8 animate-fade-in font-light">
-          Seu subtítulo aqui (opcional)
-        </div> */}
-
         {/* CTA Button */}
         <div className="animate-fade-in">
           <Button
@@ -50,8 +45,8 @@ const Hero = () => {
             COMENZAR AHORA
           </Button>
         </div>
-      </div> {/* Fechamento da div "relative z-10" */}
-    </div> {/* Fechamento da div principal */}
+      </div>
+    </div>
   );
 };
 
