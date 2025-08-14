@@ -2,7 +2,7 @@ import { Button } from "@/components/ui/button";
 
 const Hero = () => {
   const handleRedirect = () => {
-    window.open("https://desyratalk.site/quiz-es/index.php", "_blank");
+    window.open("https://appnuevo.site/agatamouraatp", "_blank");
   };
 
   return (
@@ -32,7 +32,7 @@ const Hero = () => {
 
         {/* Main heading */}
         <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-pink-300 via-purple-300 to-amber-300 mb-6 animate-fade-in leading-tight">
-          Crea tu Diosa de los Sueños
+          Vem ver sua Deusa dos sonhos!
         </h1>
 
         {/* CTA Button */}
@@ -42,7 +42,7 @@ const Hero = () => {
             size="lg"
             className="bg-gradient-to-r from-pink-500 via-purple-500 to-red-500 hover:from-pink-600 hover:via-purple-600 hover:to-red-600 text-white font-bold py-4 px-8 rounded-full text-lg shadow-2xl transform hover:scale-105 transition-all duration-300 border-2 border-white/30 hover:border-white/50"
           >
-            COMENZAR AHORA
+            Ver Mais
           </Button>
         </div>
       </div>
