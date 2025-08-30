@@ -1,3 +1,4 @@
+
 import { Button } from "@/components/ui/button";
 
 const Hero = () => {
@@ -20,11 +21,12 @@ const Hero = () => {
       />
 
       {/* Content */}
-     
+      <div className="relative z-10 text-center px-6 max-w-4xl mx-auto">
         {/* Main heading */}
-        <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-pink-300 via-purple-300 to-amber-300 mb-6 animate-fade-in leading-tight">
-          Create Your Dream AI Girlfriend
-        </h1>
+       <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-pink-300 via-purple-300 to-amber-300 mb-6 animate-fade-in leading-tight">
+  Create Your Dream AI Girlfriend
+</h1>
+
 
         {/* CTA Button */}
         <div className="animate-fade-in">
