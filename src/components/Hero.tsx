@@ -35,7 +35,7 @@ const Hero = () => {
             size="lg"
             className="bg-gradient-to-r from-pink-500 via-purple-500 to-red-500 hover:from-pink-600 hover:via-purple-600 hover:to-red-600 text-white font-bold py-4 px-8 rounded-full text-lg shadow-2xl transform hover:scale-105 transition-all duration-300 border-2 border-white/30 hover:border-white/50"
           >
-            START NOW
+            Get Started
           </Button>
         </div>
       </div>
